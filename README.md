@@ -1,9 +1,10 @@
 > This document presents an overview of cybersecurity material I have mastered throughout my learning path (covering both theory and practice), as well as my earned certifications.
 
-# I. Certificates and Certificate Courses:
+# I. Certificates:
 
 ## 1. GIAC Certified Incident Handler (GCIH) 
-   (ACCREDITATION: https://www.credly.com/badges/0493d5d4-cdad-49c1-aed6-df246b1f0e68)
+
+(ACCREDITATION: https://www.credly.com/badges/0493d5d4-cdad-49c1-aed6-df246b1f0e68)
 
 ## 2. GIAC Security Essentials Certification (GSEC)
    (ACCREDITATION: https://www.credly.com/badges/cc11769e-90a2-431f-ae58-971abe665e64)
