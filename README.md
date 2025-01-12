@@ -19,13 +19,13 @@
    - Incident Response and Cyber Investigations (Live Windows Investigation; Network, Memory and  Malware Investigations) \
      Tools: PowerShell, Tcpdump, Volatility, Regshot, Procmon
    - Scanning and Enumeration Attacks (MITRE ATT&CK Framework; Network, Host, and Cloud Scanning; SMB Security; Windows Logging; Data Exfiltration) \
-     Tools: Nmap, Netcat, SMBeagle, PowerShell, Hayabusa
+     Tools: Nmap, Netcat, Masscan, SMBclient, RPCclient, SMBeagle, PowerShell, Hayabusa
    - Password Attacks and Exploit Frameworks (Types of Password Attacks, Micrisift 365 Attaks, Hashing, Password Cracking, Metasploit Framework, Drive-By Attacks) \
-     Tools: Metasploit, Hashcat, MsfVenom
+     Tools: Hydra, Nmap, CeWL, MSOLSpray, Hashcat, Netcat
    - Web Application Attacks (IDOR, Command Injection, XSS, SQL Injection, SSRF and IMDS Attacks, Insecure Storage) \
-     Tools: Sqlmap
+     Tools: Metasploit, Hayabusa, Sqlmap, curl
    - Evasion and Post-Exploitation Attacks (Endpoint Security Bypass, Pivoting and Lateral Movement, Hijacking, Persistenc, Threat Analysis, Cloud Post_exploitation) \
-     Tools: Metasploit, Responder, RITA, ScoutSuite, Zeek Logs
+     Tools: PowerShell, Metasploit, Responder, RITA, ScoutSuite, Zeek, CloudMapper
 
 
 
@@ -33,16 +33,16 @@
    > During the course I learnt the following concepts and practised the usage of the following tools:
    - Network Security and Cloud Essentials (Sniffing, Packet Analysis, Securing Wireless Networks) \
      Tools: Tcpdump, Wireshark
-   -  Defense in Depth (Zero Trust, Password Auditing, IAM, DLP) \
-     Tools: 
+   - Defense in Depth (Zero Trust, Password Auditing, IAM, DLP) \
+     Tools: John the Ripper, Hashcat, Exiftool 
    - Vulnerability Management and Response (Vulnerability Assesment, Penetration Testing, Malware Analysis, Log Management, DFIR) \
-     Tools: Nmap, Metasploit,
+     Tools: Nmap, Metasploit, PowerShell, ElasticStack SIEM
    - Data Security Technologies \
-     Tools: 
+     Tools: Nmap, GPG, Snort, Zeek
    - Windows and Azure Security \
-     Tools:
+     Tools: PowerShell, System Informer, Sysinternals, gpdedit.msc, Event Viewer 
    - Containers, Linux, and Mac Security \
-     Tools: 
+     Tools: Docker, Auditd, Sysmon
      
 ## 3. SEC275: Foundations: Computers, Technology, & Security
 
