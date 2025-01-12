@@ -3,14 +3,13 @@
 # I. Certificates:
 
 ## 1. GIAC Certified Incident Handler (GCIH) 
-
-(ACCREDITATION: https://www.credly.com/badges/0493d5d4-cdad-49c1-aed6-df246b1f0e68)
+Credly: https://www.credly.com/badges/0493d5d4-cdad-49c1-aed6-df246b1f0e68
 
 ## 2. GIAC Security Essentials Certification (GSEC)
-(ACCREDITATION: https://www.credly.com/badges/cc11769e-90a2-431f-ae58-971abe665e64)
+Credly: https://www.credly.com/badges/cc11769e-90a2-431f-ae58-971abe665e64
 
 ## 3. GIAC Foundational Cybersecurity Technologies (GFACT)
-(ACCREDITATION: https://www.credly.com/badges/a9e3829a-b90d-415c-8dcf-43b9fb15086d)
+Credly: https://www.credly.com/badges/a9e3829a-b90d-415c-8dcf-43b9fb15086d
 
 # II. Courses:
 
