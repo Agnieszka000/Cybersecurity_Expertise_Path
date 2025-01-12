@@ -58,15 +58,17 @@ A) Academy (modules):
 - Attacking Common Services (IN PROGRESS)
 
 B) Labs (machines):
-- Meow (Very Easy)
-- Fawn (Very Easy)
-- Dancing (Very Easy)
-- Redemeer (Very Easy)
-- Appointment (Very Easy)
-- Sequel (Very Easy)
-- Crocodile (Very Easy)
-- Responder (Very Easy)
-- Three (Very Easy)
+- Archetype - Tier 2 - SMB; Tools: SMBclient, Impacket, PowerShell
+- Appointment (Very Easy) - Tier 1 - SQL database
+- Sequel (Very Easy) - Tier 1 - MySQL
+- Crocodile (Very Easy) - Tier 1 - ftp protocol
+- Responder (Very Easy) - Tier 1 - Wappalyzer plug-in
+- Three (Very Easy) - Tier 1 - AWS cloud
+- Meow (Very Easy) - Tier 0 - telnet protocol
+- Fawn (Very Easy) - Tier 0 - ftp protocol
+- Dancing (Very Easy) - Tier 0 - SMB & the usage of SMBclient
+- Redemeer (Very Easy) - Tier 0 - Redis database
+
 
 ## 2. Try Hack Me (modules):
 - What is Networking?
