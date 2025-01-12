@@ -1,10 +1,10 @@
 This document contains an overview of material I mastered in the cybersecurity area divided into platforms:
 
-## I. Certificates:
+# I. Certificates and Certificate Courses:
 
 # II. Platforms:
 
-1.. Hack the Box: 
+## 1. Hack the Box: 
 A) Academy (modules):
 - Web Requests (BADGE: https://academy.hackthebox.com/achievement/badge/1798031e-02c5-11ee-acfc-bea50ffe6cb4)
 - Intro to Assembly Language (BADGE: https://academy.hackthebox.com/achievement/badge/ef579c3f-e6b4-11ee-b18d-bea50ffe6cb4)
@@ -21,27 +21,27 @@ B) Labs (machines):
 - Responder (Very Easy)
 - Three (Very Easy)
 
-2. Try Hack Me (modules):
+## 2. Try Hack Me (modules):
 - What is Networking?
 - 
 
-3. Blue Team Labs: 
+## 3. Blue Team Labs: 
 
-4. Let's Defend:
+## 4. Let's Defend:
 
-5. Open Security Training:
+## 5. Open Security Training:
 - Architecture 1001: x86-64 Assembly (IN PROGRESS)
 
 
-5. PortSwigger Academy (labs):
+## 5. PortSwigger Academy (labs):
 - SQL injection
 
 
-III. Webinars and online trainings:
-1. Sekurak Academy:
+# III. Webinars and online trainings:
+## 1. Sekurak Academy:
 
 
-2. O'Reilly:
+## 2. O'Reilly:
 - IPv4 Subnetting from Beginning to Mastery (BADGE: https://www.credly.com/badges/b1dc3bb1-2335-4fae-98bb-a437be6a0820/public_url)
 During the training I learnt the concept of IPv4 subnetting. I am capable of understanding  understanding the IPv4 concepts and mathematical processes involved,
 and applying them effectively in designing, engineering, and operating TCP/IP networks. I am also prepared to quickly perform subnetting calculations without a calculator.
@@ -59,10 +59,10 @@ I am equipped with the knowledge to use TCP/IP protocols in LANs, WANs, and on t
 I am capable of understanding and using Linux quickly, with the skills needed to start a career in security, systems administration, and cloud engineering. 
 I also have a solid foundation for Linux certifications like LFCS, LPIC-1, and Linux+.
 
-IV Programming Languages:
-1. Python:
+# IV Programming Languages:
+## 1. Python:
 
-V. CTFs:
+# V. CTFs:
 
-VI Books:
+# VI Books:
 - Learn Computer Forensics by William Oettinger (IN PROGRESS)
