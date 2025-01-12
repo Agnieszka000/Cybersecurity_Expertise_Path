@@ -43,7 +43,7 @@ B) Labs (machines):
 
 ## 2. O'Reilly:
 - IPv4 Subnetting from Beginning to Mastery (BADGE: https://www.credly.com/badges/b1dc3bb1-2335-4fae-98bb-a437be6a0820/public_url)
-During the training I learnt the concept of IPv4 subnetting. I am capable of understanding  understanding the IPv4 concepts and mathematical processes involved,
+> blockquote During the training I learnt the concept of IPv4 subnetting. I am capable of understanding  understanding the IPv4 concepts and mathematical processes involved,
 and applying them effectively in designing, engineering, and operating TCP/IP networks. I am also prepared to quickly perform subnetting calculations without a calculator.
 
 - Packet Analysis Using Wireshark (BADGE: https://www.credly.com/badges/0f8338c3-01a6-48d4-98d7-1d26c3f30f32/public_url)
