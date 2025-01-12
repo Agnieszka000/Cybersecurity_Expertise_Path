@@ -175,7 +175,8 @@ I also have a solid foundation for Linux certifications like LFCS, LPIC-1, and L
 - Learn Computer Forensics by William Oettinger (IN PROGRESS)
 
 # VIII. Challenges:
-- Summer of Code: (REPOSITORY: https://github.com/Agnieszka000/summer_of_code)
+- Summer of Code: |
+  REPOSITORY: https://github.com/Agnieszka000/summer_of_code
 > During this 8-week-challenge I mastered the basics of HTML, Css, JavaScript and Python as used in the web environment. \
 I also familiarized myself with the concepts of web scraping and information extraction through API.
 
