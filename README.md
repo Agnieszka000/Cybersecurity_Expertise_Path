@@ -7,12 +7,14 @@
 (ACCREDITATION: https://www.credly.com/badges/0493d5d4-cdad-49c1-aed6-df246b1f0e68)
 
 ## 2. GIAC Security Essentials Certification (GSEC)
-   (ACCREDITATION: https://www.credly.com/badges/cc11769e-90a2-431f-ae58-971abe665e64)
+(ACCREDITATION: https://www.credly.com/badges/cc11769e-90a2-431f-ae58-971abe665e64)
 
 ## 3. GIAC Foundational Cybersecurity Technologies (GFACT)
-   (ACCREDITATION: https://www.credly.com/badges/a9e3829a-b90d-415c-8dcf-43b9fb15086d)
+(ACCREDITATION: https://www.credly.com/badges/a9e3829a-b90d-415c-8dcf-43b9fb15086d)
 
-# II. Course: SEC504: Hacker Tools, Techniques, and Incident Handling
+# II. Courses:
+
+## 1. SEC504: Hacker Tools, Techniques, and Incident Handling
    > During the course I learnt ho to:
    - Effectively respond to an incident in my organization in order to limit damage
    - Evaluate the evidence in a breach in order to identify the extent of the compromise
@@ -22,7 +24,11 @@
    - Test security defense tools to evaluate their effectiveness
    - Develop threat intelligence by assessing attacker tools and techniques
 
-# II. Platforms:
+## 2. SEC401: Security Essentials - Network, Endpoint, and Cloud
+
+## 3. SEC275: Foundations: Computers, Technology, & Security
+
+# III. Platforms:
 
 ## 1. Hack the Box: 
 A) Academy (modules):
@@ -55,14 +61,11 @@ B) Challenges:
 ## 5. Open Security Training:
 - Architecture 1001: x86-64 Assembly (IN PROGRESS)
 
-
 ## 5. PortSwigger Academy (labs):
 - SQL injection
 
-
-# III. Webinars and online trainings:
+# IV. Webinars and online trainings:
 ## 1. Sekurak Academy:
-
 
 ## 2. O'Reilly:
 - IPv4 Subnetting from Beginning to Mastery (BADGE: https://www.credly.com/badges/b1dc3bb1-2335-4fae-98bb-a437be6a0820/public_url)
@@ -82,19 +85,18 @@ I also have a solid foundation for Linux certifications like LFCS, LPIC-1, and L
 
 - Build Your Own Cybersecurity Lab and Cyber Range (BADGE: https://www.credly.com/badges/5f950f5d-e2a6-4910-941d-ae2f64f281d7/public_url)
 
-
-# IV Programming Languages:
+# V Programming Languages:
 ## 1. Python:
 
 ## 2. JavaScript:
 - I learnt JavaScript basics during the challenge Summer of Code. (REPOSITORY: https://github.com/Agnieszka000/summer_of_code)
 
-# V. CTFs:
+# VI. CTFs:
 
-# VI Books:
+# VII. Books:
 - Learn Computer Forensics by William Oettinger (IN PROGRESS)
 
-# VII Challenges:
+# VIII. Challenges:
 - Summer of Code: (REPOSITORY: https://github.com/Agnieszka000/summer_of_code)
 > During this 8-week-challenge I mastered the basics of HTML, Css, JavaScript and Python as used in the web environment.
 I also familiarized myself with the concepts of web scraping and information extraction through API.
