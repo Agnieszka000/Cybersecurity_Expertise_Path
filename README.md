@@ -17,7 +17,7 @@
 ## 1. SEC504: Hacker Tools, Techniques, and Incident Handling
    > During the course I learnt the following concepts and practised the usage of the following tools:
    - Incident Response and Cyber Investigations (Live Windows Investigation; Network, Memory and  Malware Investigations) \
-     Tools: PowerShell, Tcpdump, Volatility, Regshot, Procmon
+     **Tools: PowerShell, Tcpdump, Volatility, Regshot, Procmon**
    - Scanning and Enumeration Attacks (MITRE ATT&CK Framework; Network, Host, and Cloud Scanning; SMB Security; Windows Logging; Data Exfiltration) \
      Tools: Nmap, Netcat, Masscan, SMBclient, RPCclient, SMBeagle, PowerShell, Hayabusa
    - Password Attacks and Exploit Frameworks (Types of Password Attacks, Micrisift 365 Attaks, Hashing, Password Cracking, Metasploit Framework, Drive-By Attacks) \
