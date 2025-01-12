@@ -1,6 +1,16 @@
 > This document contains an overview of material I mastered in the cybersecurity area throughout my learning path:
 
 # I. Certificates and Certificate Courses:
+1. Certification: GIAC Certified Incident Handler (GCIH) (https://www.credly.com/badges/0493d5d4-cdad-49c1-aed6-df246b1f0e68)
+   Course: SEC504: Hacker Tools, Techniques, and Incident Handling
+   > During the course I learnt ho to:
+   - Effectively respond to an incident in my organization in order to limit damage
+   - Evaluate the evidence in a breach in order to identify the extent of the compromise
+   - Identify shadow cloud systems and other threats that can expose my organization
+   - Use attack tools against cloud and on-premises systems to assess exposure
+   - Apply effective defenses that significantly improve security and stop attacks
+   - Test security defense tools to evaluate their effectiveness
+   - Develop threat intelligence by assessing attacker tools and techniques
 
 # II. Platforms:
 
