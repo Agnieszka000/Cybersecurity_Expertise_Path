@@ -1,5 +1,6 @@
 > This document presents an overview of cybersecurity material I have mastered throughout my learning path (covering both theory and practice), as well as my earned certifications.
-
+\
+\
 # I. Certificates:
 
 ## 1. GIAC Certified Incident Handler (GCIH) 
