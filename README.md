@@ -1,4 +1,4 @@
-> This document contains an overview of material I mastered in the cybersecurity area throughout my learning path:
+> This document presents an overview of cybersecurity material I have mastered throughout my learning path (covering both theory and practice), as well as my earned certifications.
 
 # I. Certificates and Certificate Courses:
 
