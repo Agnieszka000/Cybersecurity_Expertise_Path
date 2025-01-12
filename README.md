@@ -15,14 +15,19 @@
 # II. Courses:
 
 ## 1. SEC504: Hacker Tools, Techniques, and Incident Handling
-   > During the course I learnt ho to:
-   - Effectively respond to an incident in my organization in order to limit damage
-   - Evaluate the evidence in a breach in order to identify the extent of the compromise
-   - Identify shadow cloud systems and other threats that can expose my organization
-   - Use attack tools against cloud and on-premises systems to assess exposure
-   - Apply effective defenses that significantly improve security and stop attacks
-   - Test security defense tools to evaluate their effectiveness
-   - Develop threat intelligence by assessing attacker tools and techniques
+   > During the course I learnt the following concepts:
+   - Incident Response and Cyber Investigations (Live Windows Investigation; Network, Memory and  Malware Investigations)
+     Tools: PowerShell, Tcpdump, Volatility, Regshot, Procmon
+   - Scanning and Enumeration Attacks (MITRE ATT&CK Framework; Network, Host, and Cloud Scanning; SMB Security; Windows Logging; Data Exfiltration)
+     Tools: Nmap, Netcat, SMBeagle, PowerShell, Hayabusa
+   - Password Attacks and Exploit Frameworks (Types of Password Attacks, Micrisift 365 Attaks, Hashing, Password Cracking, Metasploit Framework, Drive-By Attacks)
+     Tools: Metasploit, Hashcat, MsfVenom
+   - Web Application Attacks (IDOR, Command Injection, XSS, SQL Injection, SSRF and IMDS Attacks, Insecure Storage)
+     Tools: Sqlmap
+   - Evasion and Post-Exploitation Attacks (Endpoint Security Bypass, Pivoting and Lateral Movement, Hijacking, Persistenc, Threat Analysis, Cloud Post_exploitation)
+     Tools: Metasploit, Responder, RITA, ScoutSuite, Zeek Logs
+
+
 
 ## 2. SEC401: Security Essentials - Network, Endpoint, and Cloud
 
