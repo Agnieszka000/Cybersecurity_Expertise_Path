@@ -17,32 +17,32 @@
 ## 1. SEC504: Hacker Tools, Techniques, and Incident Handling
    > During the course I learnt the following concepts and practised the usage of the following tools:
    - Incident Response and Cyber Investigations (Live Windows Investigation; Network, Memory and  Malware Investigations) \
-     <ins>Tools:</ins> PowerShell, Tcpdump, Volatility, Regshot, Procmon
+     <ins>Tools</ins>: PowerShell, Tcpdump, Volatility, Regshot, Procmon
    - Scanning and Enumeration Attacks (MITRE ATT&CK Framework; Network, Host, and Cloud Scanning; SMB Security; Windows Logging; Data Exfiltration) \
-     Tools: Nmap, Netcat, Masscan, SMBclient, RPCclient, SMBeagle, PowerShell, Hayabusa
+     <ins>Tools</ins>: Nmap, Netcat, Masscan, SMBclient, RPCclient, SMBeagle, PowerShell, Hayabusa
    - Password Attacks and Exploit Frameworks (Types of Password Attacks, Micrisift 365 Attaks, Hashing, Password Cracking, Metasploit Framework, Drive-By Attacks) \
-     Tools: Hydra, Nmap, CeWL, MSOLSpray, Hashcat, Netcat
+     <ins>Tools</ins>: Hydra, Nmap, CeWL, MSOLSpray, Hashcat, Netcat
    - Web Application Attacks (IDOR, Command Injection, XSS, SQL Injection, SSRF and IMDS Attacks, Insecure Storage) \
-     Tools: Metasploit, Hayabusa, Sqlmap, curl
+     <ins>Tools</ins>: Metasploit, Hayabusa, Sqlmap, curl
    - Evasion and Post-Exploitation Attacks (Endpoint Security Bypass, Pivoting and Lateral Movement, Hijacking, Persistenc, Threat Analysis, Cloud Post_exploitation) \
-     Tools: PowerShell, Metasploit, Responder, RITA, ScoutSuite, Zeek, CloudMapper
+     <ins>Tools</ins>: PowerShell, Metasploit, Responder, RITA, ScoutSuite, Zeek, CloudMapper
 
 
 
 ## 2. SEC401: Security Essentials - Network, Endpoint, and Cloud
    > During the course I learnt the following concepts and practised the usage of the following tools:
    - Network Security and Cloud Essentials (Sniffing, Packet Analysis, Securing Wireless Networks) \
-     Tools: Tcpdump, Wireshark
+     <ins>Tools</ins>: Tcpdump, Wireshark
    - Defense in Depth (Zero Trust, Password Auditing, IAM, DLP) \
-     Tools: John the Ripper, Hashcat, Exiftool 
+     <ins>Tools</ins>: John the Ripper, Hashcat, Exiftool 
    - Vulnerability Management and Response (Vulnerability Assesment, Penetration Testing, Malware Analysis, Log Management, DFIR) \
-     Tools: Nmap, Metasploit, PowerShell, ElasticStack SIEM
+     <ins>Tools</ins>: Nmap, Metasploit, PowerShell, ElasticStack SIEM
    - Data Security Technologies \
-     Tools: Nmap, GPG, Snort, Zeek
+     <ins>Tools</ins>: Nmap, GPG, Snort, Zeek
    - Windows and Azure Security \
-     Tools: PowerShell, System Informer, Sysinternals, gpdedit.msc, Event Viewer 
+     <ins>Tools</ins>: PowerShell, System Informer, Sysinternals, gpdedit.msc, Event Viewer 
    - Containers, Linux, and Mac Security \
-     Tools: Docker, Auditd, Sysmon
+     <ins>Tools</ins>: Docker, Auditd, Sysmon
      
 ## 3. SEC275: Foundations: Computers, Technology, & Security
 
