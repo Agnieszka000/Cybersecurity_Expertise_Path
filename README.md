@@ -15,22 +15,35 @@
 # II. Courses:
 
 ## 1. SEC504: Hacker Tools, Techniques, and Incident Handling
-   > During the course I learnt the following concepts:
+   > During the course I learnt the following concepts and practised the usage of the following tools:
    - Incident Response and Cyber Investigations (Live Windows Investigation; Network, Memory and  Malware Investigations) \
      Tools: PowerShell, Tcpdump, Volatility, Regshot, Procmon
-   - Scanning and Enumeration Attacks (MITRE ATT&CK Framework; Network, Host, and Cloud Scanning; SMB Security; Windows Logging; Data Exfiltration)
+   - Scanning and Enumeration Attacks (MITRE ATT&CK Framework; Network, Host, and Cloud Scanning; SMB Security; Windows Logging; Data Exfiltration) \
      Tools: Nmap, Netcat, SMBeagle, PowerShell, Hayabusa
-   - Password Attacks and Exploit Frameworks (Types of Password Attacks, Micrisift 365 Attaks, Hashing, Password Cracking, Metasploit Framework, Drive-By Attacks)
+   - Password Attacks and Exploit Frameworks (Types of Password Attacks, Micrisift 365 Attaks, Hashing, Password Cracking, Metasploit Framework, Drive-By Attacks) \
      Tools: Metasploit, Hashcat, MsfVenom
-   - Web Application Attacks (IDOR, Command Injection, XSS, SQL Injection, SSRF and IMDS Attacks, Insecure Storage)
+   - Web Application Attacks (IDOR, Command Injection, XSS, SQL Injection, SSRF and IMDS Attacks, Insecure Storage) \
      Tools: Sqlmap
-   - Evasion and Post-Exploitation Attacks (Endpoint Security Bypass, Pivoting and Lateral Movement, Hijacking, Persistenc, Threat Analysis, Cloud Post_exploitation)
+   - Evasion and Post-Exploitation Attacks (Endpoint Security Bypass, Pivoting and Lateral Movement, Hijacking, Persistenc, Threat Analysis, Cloud Post_exploitation) \
      Tools: Metasploit, Responder, RITA, ScoutSuite, Zeek Logs
 
 
 
 ## 2. SEC401: Security Essentials - Network, Endpoint, and Cloud
-
+   > During the course I learnt the following concepts and practised the usage of the following tools:
+   - Network Security and Cloud Essentials (Sniffing, Packet Analysis, Securing Wireless Networks) \
+     Tools: Tcpdump, Wireshark
+   -  Defense in Depth (Zero Trust, Password Auditing, IAM, DLP) \
+     Tools: 
+   - Vulnerability Management and Response (Vulnerability Assesment, Penetration Testing, Malware Analysis, Log Management, DFIR) \
+     Tools: Nmap, Metasploit,
+   - Data Security Technologies \
+     Tools: 
+   - Windows and Azure Security \
+     Tools:
+   - Containers, Linux, and Mac Security \
+     Tools: 
+     
 ## 3. SEC275: Foundations: Computers, Technology, & Security
 
 # III. Platforms:
