@@ -73,8 +73,16 @@ B) Labs (machines):
 
 ## 3. Blue Team Labs: 
 A) Investigations:
+- Deep Blue (Easy)
+> I conducted Windows log analysis in search of a host compromised throud RDP protocol. \
+<ins>Tools</ins>: DeepBlueCLI, PowerShell, Event Viewer
+- Piggy (Easy)
+> I investigated network activity from .pcap files. \
+<ins>Tools</ins>: Wireshark, OSINT, MITRE ATT@CK Framework
 
 B) Challenges:
+- Source (Medium)
+> I reviewed code to identify a vulnerability.
 - Browser Forensics - Cryptominer (Easy)
 > I inspected an .ad1 file in search of a cryptominer. \
 <ins>Tools</ins>: FTK Imager
@@ -89,6 +97,9 @@ B) Challenges:
 - Phishing Analysis 2 (Easy)
 > I practised finding essential information from an e-mail such as the company is the attacker trying to imitate, the URL of the main call-to-action button and inppecting the URL information without opening it. \
 <ins>Tools</ins>: Mozilla Thunderbird, CyberChef, browserling.com
+- ATT&CK (Easy)
+> I practiced working with ATT&CK framework. \
+<ins>Tools</ins>: MITRE ATT&CK framework
 - The Report (Easy)
 > I practiced working with a Security Report.
 
