@@ -14,7 +14,7 @@
 
 # II. Courses:
 
-## 1. SEC504: Hacker Tools, Techniques, and Incident Handling
+## 1. SEC504: Hacker Tools, Techniques, and Incident Handling (SANS Institute)
    > During the course I learnt the following concepts and practised the usage of the following tools:
    - Incident Response and Cyber Investigations (Live Windows Investigation; Network, Memory and  Malware Investigations) \
      <ins>Tools</ins>: PowerShell, Tcpdump, Volatility, Regshot, Procmon
@@ -29,7 +29,7 @@
 
 
 
-## 2. SEC401: Security Essentials - Network, Endpoint, and Cloud
+## 2. SEC401: Security Essentials - Network, Endpoint, and Cloud (SANS Institute)
    > During the course I learnt the following concepts and practised the usage of the following tools:
    - Network Security and Cloud Essentials (Sniffing, Packet Analysis, Securing Wireless Networks) \
      <ins>Tools</ins>: Tcpdump, Wireshark
@@ -44,7 +44,9 @@
    - Containers, Linux, and Mac Security \
      <ins>Tools</ins>: Docker, Auditd, Sysmon
      
-## 3. SEC275: Foundations: Computers, Technology, & Security
+## 3. SEC275: Foundations: Computers, Technology, & Security (SANS Institute)
+> During the course I learnt the fundamentals of: Linux, Web, Networking, Servers and Services, Windows, Computer Hardware. \
+> I also learned the basics of the following languages: C, Python, Assembly, SQL.
 
 # III. Platforms:
 
