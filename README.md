@@ -16,7 +16,7 @@
 
 ## 1. SEC504: Hacker Tools, Techniques, and Incident Handling
    > During the course I learnt the following concepts:
-   - Incident Response and Cyber Investigations (Live Windows Investigation; Network, Memory and  Malware Investigations)
+   - Incident Response and Cyber Investigations (Live Windows Investigation; Network, Memory and  Malware Investigations) \
      Tools: PowerShell, Tcpdump, Volatility, Regshot, Procmon
    - Scanning and Enumeration Attacks (MITRE ATT&CK Framework; Network, Host, and Cloud Scanning; SMB Security; Windows Logging; Data Exfiltration)
      Tools: Nmap, Netcat, SMBeagle, PowerShell, Hayabusa
