@@ -116,6 +116,14 @@ B) Challenges:
 
 # IV. Webinars and online trainings:
 ## 1. Sekurak Academy:
+- Introduction to low level hacking: Operating on bits and bytes - Gynvael Coldwind (2023)
+- Hacking vs AI - Tomasz Turba (2023)
+- Can anything be hacked with Python? - Mateusz Lewczak (2023)
+- PowerShell in Security: fundamentals, tricks and practice - Paweł Maziarz (2023)
+- Introduction to Linux Security, Part I - Karol Szafrański (2024)
+- Computer Forensics in Linux - Tomasz Turba (2024)
+- Introduction to IoT Security (4 parts) - Mateusz Wójcik (2024)
+- 
 
 ## 2. O'Reilly:
 - IPv4 Subnetting from Beginning to Mastery (BADGE: https://www.credly.com/badges/b1dc3bb1-2335-4fae-98bb-a437be6a0820/public_url)
