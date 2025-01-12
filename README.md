@@ -26,6 +26,9 @@ B) Labs (machines):
 - 
 
 ## 3. Blue Team Labs: 
+A) Investigations:
+
+B) Challenges:
 
 ## 4. Let's Defend:
 
