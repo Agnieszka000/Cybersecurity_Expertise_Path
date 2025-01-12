@@ -75,6 +75,22 @@ B) Labs (machines):
 A) Investigations:
 
 B) Challenges:
+- Browser Forensics - Cryptominer (Easy)
+> I inspected an .ad1 file in search of a cryptominer. \
+<ins>Tools</ins>: FTK Imager
+- Secrets (Easy)
+>  I learnt how to inspect a JSON Web Token. \
+<ins>Tools</ins>: jwt.io/#debugger, Hashcat
+- Network Analysis - Webshell (Easy)
+>  I inspected a .pcap file in search of a suspicious activity. \
+<ins>Tools</ins>: Wireshark
+- Phishing Analysis 1 (Easy)
+> I practised finding essential information from an e-mail such as the original sender, the originating IP and scanned information from the attachment. \
+- Phishing Analysis 2 (Easy)
+> I practised finding essential information from an e-mail such as the company is the attacker trying to imitate, the URL of the main call-to-action button and inppecting the URL information without opening it. \
+<ins>Tools</ins>: Mozilla Thunderbird, CyberChef, browserling.com
+- The Report (Easy)
+> I practiced working with a Security Report.
 
 ## 4. Let's Defend:
 
