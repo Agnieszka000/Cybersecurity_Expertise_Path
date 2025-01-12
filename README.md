@@ -75,10 +75,13 @@ B) Labs (machines):
 A) Investigations:
 - Deep Blue (Easy)
 > I conducted Windows log analysis in search of a host compromised throud RDP protocol. \
-<ins>Tools</ins>: DeepBlueCLI, PowerShell, Event Viewer
+<ins>Tools</ins>: DeepBlueCLI, PowerShell, Event Viewer \
+BADGE: https://blueteamlabs.online/achievement/share/92426/32
+
 - Piggy (Easy)
 > I investigated network activity from .pcap files. \
-<ins>Tools</ins>: Wireshark, OSINT, MITRE ATT@CK Framework
+<ins>Tools</ins>: Wireshark, OSINT, MITRE ATT@CK Framework \
+BADGE: https://blueteamlabs.online/achievement/share/92426/66
 
 B) Challenges:
 - Source (Medium)
