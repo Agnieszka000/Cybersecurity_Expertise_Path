@@ -52,8 +52,10 @@
 
 ## 1. Hack the Box: 
 A) Academy (modules):
-- Web Requests (BADGE: https://academy.hackthebox.com/achievement/badge/1798031e-02c5-11ee-acfc-bea50ffe6cb4)
-- Intro to Assembly Language (BADGE: https://academy.hackthebox.com/achievement/badge/ef579c3f-e6b4-11ee-b18d-bea50ffe6cb4)
+- Web Requests \
+  BADGE: https://academy.hackthebox.com/achievement/badge/1798031e-02c5-11ee-acfc-bea50ffe6cb4)
+- Intro to Assembly Language \
+  BADGE: https://academy.hackthebox.com/achievement/badge/ef579c3f-e6b4-11ee-b18d-bea50ffe6cb4)
 - Attacking Common Services (IN PROGRESS)
 
 B) Labs (machines):
@@ -152,20 +154,28 @@ I also have a solid foundation for Linux certifications like LFCS, LPIC-1, and L
 ## 1. Python:
    I am capable of writing simple scrips in Python. \
    I practice Python scripting from various sources, the source is always given in the comments section of a script. \
-   Exercises Repository: https://github.com/Agnieszka000/Python_exercises 
+   Exercises Repository: https://github.com/Agnieszka000/Python_exercises \
    Cybersecurity Scripts Repository: https://github.com/Agnieszka000/Cybersecurity-scripts
 
 
 ## 2. JavaScript:
-- I learnt JavaScript basics during the challenge Summer of Code. (REPOSITORY: https://github.com/Agnieszka000/summer_of_code)
+- I learnt JavaScript basics during the challenge Summer of Code. \
+  REPOSITORY: https://github.com/Agnieszka000/summer_of_code
 
 # VI. CTFs:
+- Cyber Apocalypse 2023 (HTB)
+- WiCyS & SANS CTF (2023, WiCyS Security Training Scholarship Tier 1)
+- Cyber Apocalypse 2024 (HTB)
+- Cyber Defense 2024 (WiCyS)
+- Flare-On 11 (2024)
+- 4T$ CTF (2024)
+- SANS Holiday Hack Challenge (2024)
 
 # VII. Books:
 - Learn Computer Forensics by William Oettinger (IN PROGRESS)
 
 # VIII. Challenges:
 - Summer of Code: (REPOSITORY: https://github.com/Agnieszka000/summer_of_code)
-> During this 8-week-challenge I mastered the basics of HTML, Css, JavaScript and Python as used in the web environment.
+> During this 8-week-challenge I mastered the basics of HTML, Css, JavaScript and Python as used in the web environment. \
 I also familiarized myself with the concepts of web scraping and information extraction through API.
 
