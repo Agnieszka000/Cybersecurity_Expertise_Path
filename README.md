@@ -1,8 +1,8 @@
 This document contains an overview of material I mastered in the cybersecurity area divided into platforms:
 
-<strong><u> I. Certificates: </u></strong>
+## I. Certificates:
 
-II. Platforms:
+# II. Platforms:
 
 1.. Hack the Box: 
 A) Academy (modules):
