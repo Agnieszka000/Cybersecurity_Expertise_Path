@@ -1,4 +1,4 @@
-> This document contains an overview of material I mastered in the cybersecurity area divided into platforms:
+> This document contains an overview of material I mastered in the cybersecurity area throughout my learning path:
 
 # I. Certificates and Certificate Courses:
 
