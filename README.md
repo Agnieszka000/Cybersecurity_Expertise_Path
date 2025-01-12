@@ -1,6 +1,6 @@
 This document contains an overview of material I mastered in the cybersecurity area divided into platforms:
 
-<b> I. Certificates: </b>
+<strong><b> I. Certificates: </b></strong>
 
 II. Platforms:
 
