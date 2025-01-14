@@ -72,7 +72,7 @@ B) Labs (machines):
 
 ## 2. Try Hack Me (modules):
 - What is Networking?
-- 
+  
 
 ## 3. Blue Team Labs: 
 A) Investigations:
