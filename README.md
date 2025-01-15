@@ -87,6 +87,9 @@ Badge: https://blueteamlabs.online/achievement/share/92426/32
 Badge: https://blueteamlabs.online/achievement/share/92426/66
 
 B) Challenges:
+- Log Analysis - Sysmon (Medium)
+> I analyzed a Sysmon log file from a compromised Windows host, using Linux CLI and CyberChef.
+Badge: https://blueteamlabs.online/achievement/share/challenge/92426/18
 - Source (Medium)
 > I reviewed code to identify a vulnerability.
 - Browser Forensics - Cryptominer (Easy)
