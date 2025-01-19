@@ -77,7 +77,7 @@ B) Labs (machines):
 ## 3. Blue Team Labs: 
 A) Investigations:
 - Deep Blue (Easy)
-> I conducted Windows log analysis in search of a host compromised throud RDP protocol. \
+> I conducted Windows log analysis in search of a host compromised through RDP protocol. \
 <ins>Tools</ins>: DeepBlueCLI, PowerShell, Event Viewer \
 Badge: https://blueteamlabs.online/achievement/share/92426/32
 
