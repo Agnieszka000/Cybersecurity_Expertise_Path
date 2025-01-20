@@ -59,15 +59,15 @@ A) Academy (modules):
 
 B) Labs (machines):
 - Archetype - Tier 2 - SMB; Tools: SMBclient, Impacket, PowerShell
-- Appointment (Very Easy) - Tier 1 - SQL database
-- Sequel (Very Easy) - Tier 1 - MySQL
-- Crocodile (Very Easy) - Tier 1 - ftp protocol
-- Responder (Very Easy) - Tier 1 - Wappalyzer plug-in
-- Three (Very Easy) - Tier 1 - AWS cloud
-- Meow (Very Easy) - Tier 0 - telnet protocol
-- Fawn (Very Easy) - Tier 0 - ftp protocol
-- Dancing (Very Easy) - Tier 0 - SMB & the usage of SMBclient
-- Redemeer (Very Easy) - Tier 0 - Redis database
+- Appointment - Tier 1 - SQL database
+- Sequel - Tier 1 - MySQL
+- Crocodile - Tier 1 - ftp protocol
+- Responder - Tier 1 - Wappalyzer plug-in
+- Three - Tier 1 - AWS cloud
+- Meow - Tier 0 - telnet protocol
+- Fawn - Tier 0 - ftp protocol
+- Dancing - Tier 0 - SMB & the usage of SMBclient
+- Redemeer - Tier 0 - Redis database
 
 
 ## 2. Microsoft Learn:
@@ -95,40 +95,40 @@ B) Modules:
 
 ## 3. Blue Team Labs: 
 A) Investigations:
-- Deep Blue (Easy)
+- Deep Blue
 > I conducted Windows log analysis in search of a host compromised through RDP protocol. \
 <ins>Tools</ins>: DeepBlueCLI, PowerShell, Event Viewer \
 Badge: https://blueteamlabs.online/achievement/share/92426/32
 
-- Piggy (Easy)
+- Piggy
 > I investigated network activity from .pcap files. \
 <ins>Tools</ins>: Wireshark, OSINT, MITRE ATT@CK Framework \
 Badge: https://blueteamlabs.online/achievement/share/92426/66
 
 B) Challenges:
-- Log Analysis - Sysmon (Medium)
+- Log Analysis - Sysmon
 > I analyzed a Sysmon log file from a compromised Windows host, using Linux CLI and CyberChef.
 Badge: https://blueteamlabs.online/achievement/share/challenge/92426/18
-- Source (Medium)
+- Source
 > I reviewed code to identify a vulnerability.
-- Browser Forensics - Cryptominer (Easy)
+- Browser Forensics - Cryptominer
 > I inspected an .ad1 file in search of a cryptominer. \
 <ins>Tools</ins>: FTK Imager
-- Secrets (Easy)
+- Secrets
 >  I learnt how to inspect a JSON Web Token. \
 <ins>Tools</ins>: jwt.io/#debugger, Hashcat
-- Network Analysis - Webshell (Easy)
+- Network Analysis - Webshell
 >  I inspected a .pcap file in search of a suspicious activity. \
 <ins>Tools</ins>: Wireshark
-- Phishing Analysis 1 (Easy)
+- Phishing Analysis 1
 > I practised finding essential information from an e-mail such as the original sender, the originating IP and scanned information from the attachment. \
-- Phishing Analysis 2 (Easy)
+- Phishing Analysis 2
 > I practised finding essential information from an e-mail such as the company is the attacker trying to imitate, the URL of the main call-to-action button and inppecting the URL information without opening it. \
 <ins>Tools</ins>: Mozilla Thunderbird, CyberChef, browserling.com
-- ATT&CK (Easy)
+- ATT&CK
 > I practiced working with ATT&CK framework. \
 <ins>Tools</ins>: MITRE ATT&CK framework
-- The Report (Easy)
+- The Report
 > I practiced working with a Security Report.
 
 ## 4. Try Hack Me (modules):
