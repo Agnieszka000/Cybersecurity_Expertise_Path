@@ -70,9 +70,28 @@ B) Labs (machines):
 - Redemeer (Very Easy) - Tier 0 - Redis database
 
 
-## 2. Try Hack Me (modules):
-- What is Networking?
-  
+## 2. Microsoft Learn:
+A) Azure Sentinel Training Lab
+> I deployed a Microsoft Sentinel workspace and worked on: installing and enabling data connectors, creating rules for security detections through Analytics Rules, handling an incident through working with logs, playbooks and workbooks, creating watchlists, working with threat intelligence connectors.
+
+B) Modules:
+- Mitigate incidents using Microsoft Defender \
+  Badge: https://learn.microsoft.com/api/achievements/share/en-us/Agnieszka-6671/P58SQSZ4?sharingId=E4EE8BF3E3FBD180
+- Write your first query with Kusto Query Language \
+  Badge: https://learn.microsoft.com/api/achievements/share/en-us/Agnieszka-6671/UYE7A673?sharingId=E4EE8BF3E3FBD180
+- Introduction to Microsoft Sentinel \
+  Badge: https://learn.microsoft.com/api/achievements/share/en-us/Agnieszka-6671/VD9WXQFM?sharingId=E4EE8BF3E3FBD180
+- Create and manage Microsoft Sentinel workspaces\
+  Badge: https://learn.microsoft.com/api/achievements/share/en-us/Agnieszka-6671/UYEJEEW3?sharingId=E4EE8BF3E3FBD180
+- Query logs in Microsoft Sentinel \
+  Badge: https://learn.microsoft.com/api/achievements/share/en-us/Agnieszka-6671/WZDJUBYN?sharingId=E4EE8BF3E3FBD180
+- Use watchlists in Microsoft Sentinel \
+  Badge: https://learn.microsoft.com/api/achievements/share/en-us/Agnieszka-6671/UYP4U9C3?sharingId=E4EE8BF3E3FBD180
+- Utilize threat intelligence in Microsoft Sentinel \
+  Badge: https://learn.microsoft.com/api/achievements/share/en-us/Agnieszka-6671/2BUHL6CV?sharingId=E4EE8BF3E3FBD180
+- Introduction to Microsoft Defender XDR threat protection
+  Badge: https://learn.microsoft.com/api/achievements/share/en-us/Agnieszka-6671/UYQT8RY3?sharingId=E4EE8BF3E3FBD180
+
 
 ## 3. Blue Team Labs: 
 A) Investigations:
@@ -112,12 +131,15 @@ Badge: https://blueteamlabs.online/achievement/share/challenge/92426/18
 - The Report (Easy)
 > I practiced working with a Security Report.
 
-## 4. Let's Defend:
+## 4. Try Hack Me (modules):
+- What is Networking?
 
-## 5. Open Security Training:
+## 5. Let's Defend:
+
+## 6. Open Security Training:
 - Architecture 1001: x86-64 Assembly (IN PROGRESS)
 
-## 5. PortSwigger Academy (labs):
+## 7. PortSwigger Academy (labs):
 - SQL injection
 
 # IV. Webinars and online trainings:
