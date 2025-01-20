@@ -89,7 +89,7 @@ B) Modules:
   Badge: https://learn.microsoft.com/api/achievements/share/en-us/Agnieszka-6671/UYP4U9C3?sharingId=E4EE8BF3E3FBD180
 - Utilize threat intelligence in Microsoft Sentinel \
   Badge: https://learn.microsoft.com/api/achievements/share/en-us/Agnieszka-6671/2BUHL6CV?sharingId=E4EE8BF3E3FBD180
-- Introduction to Microsoft Defender XDR threat protection
+- Introduction to Microsoft Defender XDR threat protection \
   Badge: https://learn.microsoft.com/api/achievements/share/en-us/Agnieszka-6671/UYQT8RY3?sharingId=E4EE8BF3E3FBD180
 
 
