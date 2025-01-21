@@ -127,6 +127,7 @@ Badge: https://blueteamlabs.online/achievement/share/challenge/92426/35
 Badge: https://blueteamlabs.online/achievement/share/challenge/92426/12
 - Phishing Analysis 1
 > I practised finding essential information from an e-mail such as the original sender, the originating IP and scanned information from the attachment. \
+Badge: https://blueteamlabs.online/achievement/share/challenge/92426/16
 - Phishing Analysis 2
 > I practised finding essential information from an e-mail such as the company is the attacker trying to imitate, the URL of the main call-to-action button and inppecting the URL information without opening it. \
 <ins>Tools</ins>: Mozilla Thunderbird, CyberChef, browserling.com \
