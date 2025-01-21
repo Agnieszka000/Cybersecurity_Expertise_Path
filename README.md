@@ -95,6 +95,8 @@ B) Modules:
 
 ## 3. Blue Team Labs: 
 A) Investigations:
+- Swift (IN PROGRESS)
+
 - Deep Blue
 > I conducted Windows log analysis in search of a host compromised through RDP protocol. \
 <ins>Tools</ins>: DeepBlueCLI, PowerShell, Event Viewer \
