@@ -115,23 +115,29 @@ Badge: https://blueteamlabs.online/achievement/share/challenge/92426/18
 > I reviewed code to identify a vulnerability.
 - Browser Forensics - Cryptominer
 > I inspected an .ad1 file in search of a cryptominer. \
-<ins>Tools</ins>: FTK Imager
+<ins>Tools</ins>: FTK Imager \
+Badge: https://blueteamlabs.online/achievement/share/challenge/92426/38
 - Secrets
 >  I learnt how to inspect a JSON Web Token. \
-<ins>Tools</ins>: jwt.io/#debugger, Hashcat
+<ins>Tools</ins>: jwt.io/#debugger, Hashcat \
+Badge: https://blueteamlabs.online/achievement/share/challenge/92426/35
 - Network Analysis - Webshell
 >  I inspected a .pcap file in search of a suspicious activity. \
-<ins>Tools</ins>: Wireshark
+<ins>Tools</ins>: Wireshark \
+Badge: https://blueteamlabs.online/achievement/share/challenge/92426/12
 - Phishing Analysis 1
 > I practised finding essential information from an e-mail such as the original sender, the originating IP and scanned information from the attachment. \
 - Phishing Analysis 2
 > I practised finding essential information from an e-mail such as the company is the attacker trying to imitate, the URL of the main call-to-action button and inppecting the URL information without opening it. \
-<ins>Tools</ins>: Mozilla Thunderbird, CyberChef, browserling.com
+<ins>Tools</ins>: Mozilla Thunderbird, CyberChef, browserling.com \
+Badge: https://blueteamlabs.online/achievement/share/challenge/92426/24
 - ATT&CK
 > I practiced working with ATT&CK framework. \
-<ins>Tools</ins>: MITRE ATT&CK framework
+<ins>Tools</ins>: MITRE ATT&CK framework \
+Badge: https://blueteamlabs.online/achievement/share/challenge/92426/15
 - The Report
-> I practiced working with a Security Report.
+> I practiced working with a Security Report. \
+Badge: https://blueteamlabs.online/achievement/share/challenge/92426/42
 
 ## 4. Try Hack Me (modules):
 - What is Networking?
