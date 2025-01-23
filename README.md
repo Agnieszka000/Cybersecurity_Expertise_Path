@@ -47,6 +47,8 @@ Credly: https://www.credly.com/badges/a9e3829a-b90d-415c-8dcf-43b9fb15086d
 > During the course I learnt the fundamentals of: Linux, Web, Networking, Servers and Services, Windows, Computer Hardware. \
 > I also learned the basics of the following languages: C, Python, Assembly, SQL.
 
+## 4. Windows Forensics with Belkasoft (IN PROGRESS)
+
 # III. Platforms:
 
 ## 1. Hack the Box: 
