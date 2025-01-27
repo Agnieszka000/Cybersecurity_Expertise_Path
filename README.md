@@ -97,7 +97,8 @@ B) Modules:
 
 ## 3. Blue Team Labs: 
 A) Investigations:
-- Swift (IN PROGRESS)
+- Swift
+Badge: https://blueteamlabs.online/achievement/share/92426/114
 
 - Deep Blue
 > I conducted Windows log analysis in search of a host compromised through RDP protocol. \
