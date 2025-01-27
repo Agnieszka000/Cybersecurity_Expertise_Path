@@ -97,7 +97,10 @@ B) Modules:
 
 ## 3. Blue Team Labs: 
 A) Investigations:
-- Swift
+- Swift \
+> I collected key artifacts for analysis and triage after a Windows system compromise. I reviewed the Lockout Policy,
+> investigated Windows Logs, used WHOIS tools, identified compromised accounts and malicious scripts, and investigated data exfiltration.
+<ins>Tools</ins> PowerShell, Live Forensicator (PowerShell framework), Chainsaw \
 Badge: https://blueteamlabs.online/achievement/share/92426/114
 
 - Deep Blue
