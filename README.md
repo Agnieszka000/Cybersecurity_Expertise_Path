@@ -148,6 +148,24 @@ Badge: https://blueteamlabs.online/achievement/share/challenge/92426/42
 
 ## 4. Try Hack Me (modules):
 - What is Networking?
+- Intro to LAN
+- Windows Fundamentals
+- Linux Fundamentals
+- OSI Model
+- Packets and Frames
+- DNS in Detail
+- HTTPS in Detail
+- How Websites Work
+- NMAP
+- SQL Injection
+- Google Dorking
+- Pentesting Fundamentals
+- Subdomain Enumeration
+- Authentication Bypass
+- IDOR
+- Intro to Containerisation
+- File Inclusion
+- x86 Architecture Overview
 
 ## 5. Let's Defend:
 
