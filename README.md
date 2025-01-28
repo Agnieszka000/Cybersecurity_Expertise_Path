@@ -77,10 +77,6 @@ A) Azure Sentinel Training Lab
 > I deployed a Microsoft Sentinel workspace and worked on: installing and enabling data connectors, creating rules for security detections through Analytics Rules, handling an incident through working with logs, playbooks and workbooks, creating watchlists, working with threat intelligence connectors.
 
 B) Modules:
-- Mitigate incidents using Microsoft Defender \
-  Badge: https://learn.microsoft.com/api/achievements/share/en-us/Agnieszka-6671/P58SQSZ4?sharingId=E4EE8BF3E3FBD180
-- Write your first query with Kusto Query Language \
-  Badge: https://learn.microsoft.com/api/achievements/share/en-us/Agnieszka-6671/UYE7A673?sharingId=E4EE8BF3E3FBD180
 - Introduction to Microsoft Sentinel \
   Badge: https://learn.microsoft.com/api/achievements/share/en-us/Agnieszka-6671/VD9WXQFM?sharingId=E4EE8BF3E3FBD180
 - Create and manage Microsoft Sentinel workspaces\
@@ -91,6 +87,10 @@ B) Modules:
   Badge: https://learn.microsoft.com/api/achievements/share/en-us/Agnieszka-6671/UYP4U9C3?sharingId=E4EE8BF3E3FBD180
 - Utilize threat intelligence in Microsoft Sentinel \
   Badge: https://learn.microsoft.com/api/achievements/share/en-us/Agnieszka-6671/2BUHL6CV?sharingId=E4EE8BF3E3FBD180
+- Mitigate incidents using Microsoft Defender \
+  Badge: https://learn.microsoft.com/api/achievements/share/en-us/Agnieszka-6671/P58SQSZ4?sharingId=E4EE8BF3E3FBD180
+- Write your first query with Kusto Query Language \
+  Badge: https://learn.microsoft.com/api/achievements/share/en-us/Agnieszka-6671/UYE7A673?sharingId=E4EE8BF3E3FBD180
 - Introduction to Microsoft Defender XDR threat protection \
   Badge: https://learn.microsoft.com/api/achievements/share/en-us/Agnieszka-6671/UYQT8RY3?sharingId=E4EE8BF3E3FBD180
 
