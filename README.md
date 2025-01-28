@@ -167,7 +167,11 @@ Badge: https://blueteamlabs.online/achievement/share/challenge/92426/42
 - File Inclusion
 - x86 Architecture Overview
 
-## 5. Let's Defend:
+## 5. Let's Defend (courses):
+- Malware Analysis Fundamentals
+- Dynamic Malware Analysis
+- Building a Malware Analysis Lab
+- Malware Traffic Analysis with Wireshark
 
 ## 6. Open Security Training:
 - Architecture 1001: x86-64 Assembly (IN PROGRESS)
