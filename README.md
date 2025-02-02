@@ -5,12 +5,12 @@ This document presents an overview of cybersecurity material I have mastered thr
 ## SECTIONS: 
 ### I Certificates - go to: https://github.com/Agnieszka000/CLP/blob/main/README.md#i-certificates
 ### II Courses - go to: https://github.com/Agnieszka000/CLP/blob/main/README.md#ii-courses
-### II Platforms - go to: https://github.com/Agnieszka000/CLP?tab=readme-ov-file#iii-platforms
-### IV Webinars and online trainings - go to: [(https://github.com/Agnieszka000/CLP/blob/main/README.md#i-certificates \](https://github.com/Agnieszka000/CLP?tab=readme-ov-file#iv-webinars-and-online-trainings)
-### Programming Languages - go to: (https://github.com/Agnieszka000/CLP/blob/main/README.md#i-certificates
-### CTFs - go to: https://github.com/Agnieszka000/CLP/blob/main/README.md#i-certificates
-### VII Books - go to: https://github.com/Agnieszka000/CLP/blob/main/README.md#i-certificates
-### VIII Challenges - go to: https://github.com/Agnieszka000/CLP/blob/main/README.md#i-certificates
+### III Platforms - go to: https://github.com/Agnieszka000/CLP?tab=readme-ov-file#iii-platforms
+### IV Webinars and online trainings - go to: https://github.com/Agnieszka000/CLP?tab=readme-ov-file#iv-webinars-and-online-trainings
+### V Programming Languages - go to: https://github.com/Agnieszka000/CLP?tab=readme-ov-file#v-programming-languages
+### VI CTFs - go to: https://github.com/Agnieszka000/CLP?tab=readme-ov-file#vi-ctfs
+### VII Books - go to: https://github.com/Agnieszka000/CLP?tab=readme-ov-file#vii-books
+### VIII Challenges - go to: https://github.com/Agnieszka000/CLP?tab=readme-ov-file#viii-challenges
 
 # I Certificates:
 
