@@ -11,7 +11,9 @@ This document presents an overview of cybersecurity material I have mastered thr
 ### VI CTFs - go to: https://github.com/Agnieszka000/CLP?tab=readme-ov-file#vi-ctfs
 ### VII Books - go to: https://github.com/Agnieszka000/CLP?tab=readme-ov-file#vii-books
 ### VIII Challenges - go to: https://github.com/Agnieszka000/CLP?tab=readme-ov-file#viii-challenges
-
+\
+\
+\
 # I Certificates:
 
 ## 1. GIAC Certified Incident Handler (GCIH) 
