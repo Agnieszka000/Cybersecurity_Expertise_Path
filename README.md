@@ -1,6 +1,15 @@
 # CYBERSECURITY LEARNING PATH
 
 > This document presents an overview of cybersecurity material I have mastered throughout my learning path (covering both theory and practice), as well as my earned certifications.
+> The sections:
+> - [#I. Certificates] I. Certificates
+> - II. Courses
+> - III. Platforms
+> - IV. Webinars and online trainings
+> - V. Programming Languages
+> - VI. CTFs
+> - VII. Books
+> - VIII. Challenges
 
 # I. Certificates:
 
@@ -215,7 +224,7 @@ I also have a solid foundation for Linux certifications like LFCS, LPIC-1, and L
 - Build Your Own Cybersecurity Lab and Cyber Range \
   Badge: https://www.credly.com/badges/5f950f5d-e2a6-4910-941d-ae2f64f281d7/public_url
 
-# V Programming Languages:
+# V. Programming Languages:
 ## 1. Python:
    I am capable of writing simple scrips in Python. \
    I practice Python scripting from various sources, the source is always given in the comments section of a script. \
