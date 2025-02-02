@@ -15,17 +15,21 @@ VIII Challenges - go to: https://github.com/Agnieszka000/CLP?tab=readme-ov-file#
 # I Certificates:
 
 ## 1. GIAC Certified Incident Handler (GCIH) 
+
 Credly: https://www.credly.com/badges/0493d5d4-cdad-49c1-aed6-df246b1f0e68
 
 ## 2. GIAC Security Essentials Certification (GSEC)
+
 Credly: https://www.credly.com/badges/cc11769e-90a2-431f-ae58-971abe665e64
 
 ## 3. GIAC Foundational Cybersecurity Technologies (GFACT)
+
 Credly: https://www.credly.com/badges/a9e3829a-b90d-415c-8dcf-43b9fb15086d
 
 # II. Courses:
 
 ## 1. SEC504: Hacker Tools, Techniques, and Incident Handling (SANS Institute)
+
    > During the course I learnt the following concepts and practised the usage of the following tools:
    - Incident Response and Cyber Investigations (Live Windows Investigation; Network, Memory and  Malware Investigations) \
      <ins>Tools</ins>: PowerShell, Tcpdump, Volatility, Regshot, Procmon
@@ -38,7 +42,6 @@ Credly: https://www.credly.com/badges/a9e3829a-b90d-415c-8dcf-43b9fb15086d
    - Evasion and Post-Exploitation Attacks (Endpoint Security Bypass, Pivoting and Lateral Movement, Hijacking, Persistenc, Threat Analysis, Cloud Post_exploitation) \
      <ins>Tools</ins>: PowerShell, Metasploit, Responder, RITA, ScoutSuite, Zeek, CloudMapper
 
-# Part 1:
 
 ## 2. SEC401: Security Essentials - Network, Endpoint, and Cloud (SANS Institute)
    > During the course I learnt the following concepts and practised the usage of the following tools:
