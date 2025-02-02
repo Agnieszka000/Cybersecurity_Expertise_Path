@@ -3,7 +3,7 @@
 This document presents an overview of cybersecurity material I have mastered throughout my learning path (covering both theory and practice), as well as my earned certifications. 
 
 ## INDEX: 
-### I Certificates - go to: https://github.com/Agnieszka000/CLP/blob/main/README.md#i-certificates
+### I Certificates - go to: #### https://github.com/Agnieszka000/CLP/blob/main/README.md#i-certificates
 ### II Courses - go to: https://github.com/Agnieszka000/CLP/blob/main/README.md#ii-courses
 ### III Platforms - go to: https://github.com/Agnieszka000/CLP?tab=readme-ov-file#iii-platforms
 ### IV Webinars and online trainings - go to: https://github.com/Agnieszka000/CLP?tab=readme-ov-file#iv-webinars-and-online-trainings
