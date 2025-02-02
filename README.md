@@ -3,7 +3,7 @@
 This document presents an overview of cybersecurity material I have mastered throughout my learning path (covering both theory and practice), as well as my earned certifications. \
 \
 The sections: \
-I Certificates ([https://github.com/Agnieszka000/CLP/blob/main/README.md#certificates](https://github.com/Agnieszka000/CLP/blob/main/README.md#i-certificates) \
+I Certificates (go to: https://github.com/Agnieszka000/CLP/blob/main/README.md#certificates](https://github.com/Agnieszka000/CLP/blob/main/README.md#i-certificates) \
 II Courses (https://github.com/Agnieszka000/CLP/blob/main/README.md#i-certificates)
 - [Platforms] (https://github.com/Agnieszka000/CLP/blob/main/README.md#i-certificates)
 - [Webinars and online trainings] (https://github.com/Agnieszka000/CLP/blob/main/README.md#i-certificates)
