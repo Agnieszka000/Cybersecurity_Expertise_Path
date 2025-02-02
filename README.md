@@ -2,15 +2,15 @@
 
 This document presents an overview of cybersecurity material I have mastered throughout my learning path (covering both theory and practice), as well as my earned certifications. \
 \
-The sections: \
+## SECTIONS: \
 I Certificates - go to: https://github.com/Agnieszka000/CLP/blob/main/README.md#i-certificates \
-II Courses - go to: https://github.com/Agnieszka000/CLP/blob/main/README.md#i-certificates
-- [Platforms] (https://github.com/Agnieszka000/CLP/blob/main/README.md#i-certificates)
-- [Webinars and online trainings] (https://github.com/Agnieszka000/CLP/blob/main/README.md#i-certificates)
-- [Programming Languages] (https://github.com/Agnieszka000/CLP/blob/main/README.md#i-certificates)
-- [CTFs] (https://github.com/Agnieszka000/CLP/blob/main/README.md#i-certificates)
-- [Books] (https://github.com/Agnieszka000/CLP/blob/main/README.md#i-certificates)
-- [Challenges] (https://github.com/Agnieszka000/CLP/blob/main/README.md#i-certificates)
+II Courses - go to: https://github.com/Agnieszka000/CLP/blob/main/README.md#i-certificates \
+II Platforms - go to: (https://github.com/Agnieszka000/CLP/blob/main/README.md#i-certificates \
+IV Webinars and online trainings - go to: (https://github.com/Agnieszka000/CLP/blob/main/README.md#i-certificates \
+V Programming Languages - go to: (https://github.com/Agnieszka000/CLP/blob/main/README.md#i-certificates \
+VI CTFs - go to: https://github.com/Agnieszka000/CLP/blob/main/README.md#i-certificates \
+VII Books - go to: https://github.com/Agnieszka000/CLP/blob/main/README.md#i-certificates \
+VIII Challenges - go to: https://github.com/Agnieszka000/CLP/blob/main/README.md#i-certificates \
 
 # I Certificates:
 
