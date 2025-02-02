@@ -11,7 +11,7 @@
 > - VII. Books
 > - VIII. Challenges
 
-# Certificates:
+# I Certificates:
 
 ## 1. GIAC Certified Incident Handler (GCIH) 
 Credly: https://www.credly.com/badges/0493d5d4-cdad-49c1-aed6-df246b1f0e68
