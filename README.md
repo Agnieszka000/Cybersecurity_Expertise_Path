@@ -2,14 +2,14 @@
 
 > This document presents an overview of cybersecurity material I have mastered throughout my learning path (covering both theory and practice), as well as my earned certifications. \
 > The sections:
->  - [Certificates] (https://github.com/Agnieszka000/CLP/blob/main/README.md#certificates)
-> - [II. Courses] (# II. Courses:)
-> - III. Platforms
-> - IV. Webinars and online trainings
-> - V. Programming Languages
-> - VI. CTFs
-> - VII. Books
-> - VIII. Challenges
+> - [Certificates] ([https://github.com/Agnieszka000/CLP/blob/main/README.md#certificates](https://github.com/Agnieszka000/CLP/blob/main/README.md#i-certificates)
+> - [Courses] (https://github.com/Agnieszka000/CLP/blob/main/README.md#i-certificates)
+> - [Platforms] (https://github.com/Agnieszka000/CLP/blob/main/README.md#i-certificates)
+> - [Webinars and online trainings] (https://github.com/Agnieszka000/CLP/blob/main/README.md#i-certificates)
+> - [Programming Languages] (https://github.com/Agnieszka000/CLP/blob/main/README.md#i-certificates)
+> - [CTFs] (https://github.com/Agnieszka000/CLP/blob/main/README.md#i-certificates)
+> - [Books] (https://github.com/Agnieszka000/CLP/blob/main/README.md#i-certificates)
+> - [Challenges] (https://github.com/Agnieszka000/CLP/blob/main/README.md#i-certificates)
 
 # I Certificates:
 
