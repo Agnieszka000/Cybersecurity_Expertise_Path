@@ -12,7 +12,7 @@
 > - VII. Books
 > - VIII. Challenges
 
-# Part1:
+# Part 1:
 # Certificates:
 
 ## 1. GIAC Certified Incident Handler (GCIH) 
