@@ -1,6 +1,6 @@
 # CYBERSECURITY LEARNING PATH
 
-This document presents an overview of cybersecurity material I have mastered throughout my learning path (covering both theory and practice), as well as my earned certifications. \
+This document presents an overview of cybersecurity material I have mastered throughout my learning path (covering both theory and practice), as well as my earned certifications. 
 
 ## SECTIONS: 
 ### I Certificates - go to: https://github.com/Agnieszka000/CLP/blob/main/README.md#i-certificates
@@ -13,7 +13,7 @@ This document presents an overview of cybersecurity material I have mastered thr
 ### VIII Challenges - go to: https://github.com/Agnieszka000/CLP?tab=readme-ov-file#viii-challenges
 \
 \
-\
+
 
 # I Certificates:
 
