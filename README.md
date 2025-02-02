@@ -2,7 +2,7 @@
 
 > This document presents an overview of cybersecurity material I have mastered throughout my learning path (covering both theory and practice), as well as my earned certifications.
 > The sections:
-> - [#I. Certificates] (#I.-certificates:)
+> - [#I. Certificates] (#certificates)
 > - [II. Courses] (# II. Courses:)
 > - III. Platforms
 > - IV. Webinars and online trainings
@@ -11,7 +11,7 @@
 > - VII. Books
 > - VIII. Challenges
 
-# I. Certificates:
+# Certificates:
 
 ## 1. GIAC Certified Incident Handler (GCIH) 
 Credly: https://www.credly.com/badges/0493d5d4-cdad-49c1-aed6-df246b1f0e68
