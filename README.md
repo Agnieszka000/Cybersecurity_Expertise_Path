@@ -4,10 +4,13 @@ This document presents an overview of cybersecurity material I have mastered thr
 
 ## INDEX: 
 ### I Certificates
-Go to: https://github.com/Agnieszka000/CLP/blob/main/README.md#i-certificates
-### II Courses - go to: https://github.com/Agnieszka000/CLP/blob/main/README.md#ii-courses
-### III Platforms - go to: https://github.com/Agnieszka000/CLP?tab=readme-ov-file#iii-platforms
-### IV Webinars and online trainings - go to: https://github.com/Agnieszka000/CLP?tab=readme-ov-file#iv-webinars-and-online-trainings
+#### Go to: https://github.com/Agnieszka000/CLP/blob/main/README.md#i-certificates
+### II Courses
+Go to: https://github.com/Agnieszka000/CLP/blob/main/README.md#ii-courses
+### III Platforms
+Go to: https://github.com/Agnieszka000/CLP?tab=readme-ov-file#iii-platforms
+### IV Webinars and online trainings
+Go to: https://github.com/Agnieszka000/CLP?tab=readme-ov-file#iv-webinars-and-online-trainings
 ### V Programming Languages - go to: https://github.com/Agnieszka000/CLP?tab=readme-ov-file#v-programming-languages
 ### VI CTFs - go to: https://github.com/Agnieszka000/CLP?tab=readme-ov-file#vi-ctfs
 ### VII Books - go to: https://github.com/Agnieszka000/CLP?tab=readme-ov-file#vii-books
