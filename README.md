@@ -12,7 +12,6 @@
 > - VII. Books
 > - VIII. Challenges
 
-# Part 1:
 # Certificates:
 
 ## 1. GIAC Certified Incident Handler (GCIH) 
@@ -39,7 +38,7 @@ Credly: https://www.credly.com/badges/a9e3829a-b90d-415c-8dcf-43b9fb15086d
    - Evasion and Post-Exploitation Attacks (Endpoint Security Bypass, Pivoting and Lateral Movement, Hijacking, Persistenc, Threat Analysis, Cloud Post_exploitation) \
      <ins>Tools</ins>: PowerShell, Metasploit, Responder, RITA, ScoutSuite, Zeek, CloudMapper
 
-
+# Part 1:
 
 ## 2. SEC401: Security Essentials - Network, Endpoint, and Cloud (SANS Institute)
    > During the course I learnt the following concepts and practised the usage of the following tools:
