@@ -239,7 +239,7 @@ I also have a solid foundation for Linux certifications like LFCS, LPIC-1, and L
 
 
 ## 2. JavaScript:
-- I learnt JavaScript basics during the challenge Summer of Code. \
+  I learnt JavaScript basics during the challenge Summer of Code. \
   Repository: https://github.com/Agnieszka000/summer_of_code
 
 # VI. CTFs:
