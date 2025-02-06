@@ -2,7 +2,7 @@
 
 This document presents an overview of cybersecurity material I have mastered throughout my learning path (covering both theory and practice), as well as my earned certifications. 
 
-....
+
 ### INDEX: 
 I Certificates - go to: https://github.com/Agnieszka000/CLP/blob/main/README.md#i-certificates \
 II Courses - go to: https://github.com/Agnieszka000/CLP/blob/main/README.md#ii-courses \
@@ -12,7 +12,7 @@ V Programming Languages - go to: https://github.com/Agnieszka000/CLP?tab=readme-
 VI CTFs - go to: https://github.com/Agnieszka000/CLP?tab=readme-ov-file#vi-ctfs \
 VII Books - go to: https://github.com/Agnieszka000/CLP?tab=readme-ov-file#vii-books \
 VIII Challenges - go to: https://github.com/Agnieszka000/CLP?tab=readme-ov-file#viii-challenges \
-....
+
 
 # I Certificates:
 
