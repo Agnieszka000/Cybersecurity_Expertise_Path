@@ -66,7 +66,7 @@ Credly: https://www.credly.com/badges/a9e3829a-b90d-415c-8dcf-43b9fb15086d
 
 ## 4. Windows Forensics with Belkasoft (Belkasoft)
 Credentials: https://belkasoft.thinkific.com/certificates/cwjjiyztoy
-> During the course I learnt Windows Forensics, including analysis of we, email, media, document, and system artifacts.
+> During the course I learnt Windows Forensics, including analysis of web, email, media, document, and system artifacts.
 
 # III. Platforms:
 
