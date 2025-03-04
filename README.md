@@ -133,6 +133,9 @@ Badge: https://blueteamlabs.online/achievement/share/92426/32
 Badge: https://blueteamlabs.online/achievement/share/92426/66
 
 B) Challenges:
+- Network Analysis - Malware Compromise
+> I analyzed network traffic and found malware using Wireshark. 
+Badge: https://blueteamlabs.online/achievement/share/challenge/92426/11
 - Log Analysis - Sysmon
 > I analyzed a Sysmon log file from a compromised Windows host, using Linux CLI and CyberChef.
 Badge: https://blueteamlabs.online/achievement/share/challenge/92426/18
