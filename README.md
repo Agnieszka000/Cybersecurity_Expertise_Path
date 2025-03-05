@@ -111,11 +111,15 @@ B) Modules:
 - Write your first query with Kusto Query Language \
   Badge: https://learn.microsoft.com/api/achievements/share/en-us/Agnieszka-6671/UYE7A673?sharingId=E4EE8BF3E3FBD180
 - Introduction to Microsoft Defender XDR threat protection \
-  Badge: https://learn.microsoft.com/api/achievements/share/en-us/Agnieszka-6671/UYQT8RY3?sharingId=E4EE8BF3E3FBD180
+  Badge: https://learn.microsoft.com/api/achievements/share/en-us/Agnieszka-6671/UYQT8RY3?sharingId=E4EE8BF3E3FBD180 \
 
 
 ## 3. Blue Team Labs: 
 A) Investigations:
+- Countdown
+> I investigated a disk image using Autopsy and SQLite Db Browser. I found a comunicator encryption key and decrypted messages in search for e-mail addresses, attachments, dates and locations. \
+Badge: https://blueteamlabs.online/achievement/share/92426/1
+
 - Swift
 > I collected key artifacts for analysis and triage after a Windows system compromise. I reviewed the Lockout Policy,
 > investigated Windows Logs, used WHOIS tools, identified compromised accounts and malicious scripts, and investigated data exfiltration. \
