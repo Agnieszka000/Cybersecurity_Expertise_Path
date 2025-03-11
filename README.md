@@ -137,6 +137,7 @@ Badge: https://blueteamlabs.online/achievement/share/92426/32
 Badge: https://blueteamlabs.online/achievement/share/92426/66
 
 B) Challenges:
+- Bruteforce (IN PROGRESS)
 - Network Analysis - Malware Compromise
 > I analyzed network traffic and found malware using Wireshark. 
 Badge: https://blueteamlabs.online/achievement/share/challenge/92426/11
