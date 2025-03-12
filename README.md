@@ -216,6 +216,7 @@ Badge: https://blueteamlabs.online/achievement/share/challenge/92426/42
 - Computer Forensics in Linux - Tomasz Turba (2024)
 - Introduction to IoT Security (4 parts) - Mateusz Wójcik (2024)
 - Pliki okiem hackera - Gynvael Coldwind (2025)
+- Zabezpieczanie sieci domowej w praktyce - Tomasz Turba (2025)
   
 
 ## 2. O'Reilly:
