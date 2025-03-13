@@ -11,7 +11,7 @@ IV Webinars and online trainings - go to: https://github.com/Agnieszka000/CLP?ta
 V Programming Languages - go to: https://github.com/Agnieszka000/CLP?tab=readme-ov-file#v-programming-languages \
 VI CTFs - go to: https://github.com/Agnieszka000/CLP?tab=readme-ov-file#vi-ctfs \
 VII Books - go to: https://github.com/Agnieszka000/CLP?tab=readme-ov-file#vii-books \
-VIII Challenges - go to: https://github.com/Agnieszka000/CLP?tab=readme-ov-file#viii-challenges \
+VIII Challenges - go to: https://github.com/Agnieszka000/CLP?tab=readme-ov-file#viii-challenges 
 
 
 # I Certificates:
@@ -111,7 +111,7 @@ B) Modules:
 - Write your first query with Kusto Query Language \
   Badge: https://learn.microsoft.com/api/achievements/share/en-us/Agnieszka-6671/UYE7A673?sharingId=E4EE8BF3E3FBD180
 - Introduction to Microsoft Defender XDR threat protection \
-  Badge: https://learn.microsoft.com/api/achievements/share/en-us/Agnieszka-6671/UYQT8RY3?sharingId=E4EE8BF3E3FBD180 \
+  Badge: https://learn.microsoft.com/api/achievements/share/en-us/Agnieszka-6671/UYQT8RY3?sharingId=E4EE8BF3E3FBD180 
 
 
 ## 3. Blue Team Labs: 
