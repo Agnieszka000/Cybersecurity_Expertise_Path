@@ -138,6 +138,8 @@ Badge: https://blueteamlabs.online/achievement/share/92426/66
 
 B) Challenges:
 - Bruteforce (IN PROGRESS)
+> I analyzed Windows Event logs. \
+Badge: https://blueteamlabs.online/achievement/share/challenge/92426/40
 - Network Analysis - Malware Compromise
 > I analyzed network traffic and found malware using Wireshark. 
 Badge: https://blueteamlabs.online/achievement/share/challenge/92426/11
