@@ -137,7 +137,10 @@ Badge: https://blueteamlabs.online/achievement/share/92426/32
 Badge: https://blueteamlabs.online/achievement/share/92426/66
 
 B) Challenges:
-- Bruteforce (IN PROGRESS)
+- Network Analysis - Ransomware (IN PROGRESS) \
+- Bruteforce
+> I analyzed logs from an attempted RDP bruteforce attack. \
+Badge: https://blueteamlabs.online/achievement/share/challenge/92426/40 \
 > I analyzed Windows Event logs. \
 Badge: https://blueteamlabs.online/achievement/share/challenge/92426/40
 - Network Analysis - Malware Compromise
