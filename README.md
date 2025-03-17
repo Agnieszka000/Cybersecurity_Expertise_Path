@@ -116,11 +116,11 @@ B) Modules:
 
 ## 3. Blue Team Labs: 
 A) Investigations:
-- Countdown
+- Countdown (MEDIUM)
 > I investigated a disk image using Autopsy and SQLite Db Browser. I found a comunicator encryption key and decrypted messages in search for e-mail addresses, attachments, dates and locations. \
 Badge: https://blueteamlabs.online/achievement/share/92426/1
 
-- Swift
+- Swift (MEDIUM)
 > I collected key artifacts for analysis and triage after a Windows system compromise. I reviewed the Lockout Policy,
 > investigated Windows Logs, used WHOIS tools, identified compromised accounts and malicious scripts, and investigated data exfiltration. \
 <ins>Tools</ins> PowerShell, Live Forensicator (PowerShell framework), Chainsaw \
@@ -137,17 +137,27 @@ Badge: https://blueteamlabs.online/achievement/share/92426/32
 Badge: https://blueteamlabs.online/achievement/share/92426/66
 
 B) Challenges:
-- Network Analysis - Ransomware (IN PROGRESS) \
-- Bruteforce
+- Secure Shell (HARD)
+> I analyzed ssh log file.
+<ins>Tools</ins>: grep, notepad \
+Badge: https://blueteamlabs.online/achievement/share/challenge/92426/17 
+- Network Analysis - Ransomware (MEDIUM)
+> I investigated network traffic and ransmoware note.
+<ins>Tools</ins>: Wireshark, PowerShell, Virus Total \
+Badge: https://blueteamlabs.online/achievement/share/challenge/92426/3
+- Bruteforce (MEDIUM)
 > I analyzed Windows Event logs from an attempted RDP bruteforce attack. \
+<ins>Tools</ins>: Windows Event Viewer, Whois Lookup, PowerShell \
 Badge: https://blueteamlabs.online/achievement/share/challenge/92426/40
-- Network Analysis - Malware Compromise
-> I analyzed network traffic and found malware using Wireshark. 
+- Network Analysis - Malware Compromise (MEDIUM)
+> I analyzed network traffic and found malware using Wireshark. \
+<ins>Tools</ins>: Wireshark \
 Badge: https://blueteamlabs.online/achievement/share/challenge/92426/11
-- Log Analysis - Sysmon
+- Log Analysis - Sysmon (MEDIUM)
 > I analyzed a Sysmon log file from a compromised Windows host, using Linux CLI and CyberChef.
+<ins>Tools</ins>: grep, notepad \
 Badge: https://blueteamlabs.online/achievement/share/challenge/92426/18
-- Source
+- Source (MEDIUM)
 > I reviewed code to identify a vulnerability.
 - Browser Forensics - Cryptominer
 > I inspected an .ad1 file in search of a cryptominer. \
