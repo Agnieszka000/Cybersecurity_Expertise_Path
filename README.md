@@ -79,6 +79,7 @@ A) Academy (modules):
 - Attacking Common Services (IN PROGRESS)
 
 B) Labs (machines):
+- Escape Two - SMB, MSSQL, AD
 - Archetype - Tier 2 - SMB; Tools: SMBclient, Impacket, PowerShell
 - Appointment - Tier 1 - SQL database
 - Sequel - Tier 1 - MySQL
